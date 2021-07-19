@@ -1,1 +1,1 @@
-[CV](https://ivan-sidorenko.github.io/rsschool-cv/cv)
+[CV](https://github.com/Ivan-Sidorenko/rsschool-cv/blob/gh-pages/cv.md)
